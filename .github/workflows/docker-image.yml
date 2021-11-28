@@ -7,8 +7,8 @@ on:
     branches: [ main ]
 
 env:
-  APP_NAME: lanraragi
-  DOCKERHUB_REPO: dezhao/lanraragi
+  APP_NAME: lanraragi_cn
+  DOCKERHUB_REPO: dezhao/lanraragi_cn
 
 jobs:
   main:
